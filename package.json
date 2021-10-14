@@ -1,0 +1,22 @@
+{
+  "name": "day2_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/16384git/day2_express.git"
+  },
+  "author": "Pasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/16384git/day2_express/issues"
+  },
+  "homepage": "https://github.com/16384git/day2_express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
